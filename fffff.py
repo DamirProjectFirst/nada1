@@ -88,4 +88,4 @@ async def mute(ctx, member: disnake.Member, duration: int, reason: str = None):
     await ctx.send(f'{member.mention} был размучен после истечения времени.')
 
     del muted_users[member.id]
-bot.run('MTE4MDc3NDg5MzQ0MTI1MzM3Ng.Gzw4Qs.smTI5tDvFwmo_qhpfGmUmCVKd_M5fdtDYh4ij0')
+bot.run('MTIyMTQ4MTg2Njg4OTAwNzIwNQ.GJ0Sc_.Hsv9pE8ZVKCtri51PtfvRYTNSvK2eTtOnn-iaw')
